@@ -4,9 +4,6 @@ Snowz' osu! skins. Only his main skins are listed here.
 # [mathi+ensalada](https://puu.sh/wvSc8.osk)
 ![](https://image.prntscr.com/image/cHwIiRw5QUyBg-NX5Hon1A.png)
 
-# [Ponytail HDDT](https://gerwi2.s-ul.eu/UpwA6ZsP)
-![](https://i.imgur.com/o9VRoFm.png)
-
 # [dracula](https://www.dropbox.com/s/n57ci29mq0ni815/dracula_final.osk?dl=1)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537800520_oqggtfn.jpg)
 
