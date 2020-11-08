@@ -1,5 +1,5 @@
-# Snowz-osu-Skins
-Snowz' osu! skins. Only his main skins are listed here.
+# Snowz's osu Skins
+Snowz's osu! skins. Only his main skins are listed here.
 
 # [mathi+ensalada](https://puu.sh/wvSc8.osk)
 ![](https://image.prntscr.com/image/cHwIiRw5QUyBg-NX5Hon1A.png)
@@ -17,7 +17,7 @@ Snowz' osu! skins. Only his main skins are listed here.
 ![](https://image.prntscr.com/image/cOgs56n9SnOUjW4aKoBBrQ.png)
 
 # Varvalian
-Snowz' Varvalian skin is currently private.
+Snowz's Varvalian skin is currently private.
 
 # Kaguya
-Snowz' Kaguya skin is currently private.
+Snowz's Kaguya skin is currently private.
