@@ -16,8 +16,8 @@ Snowz' osu! skins. Only his main skins are listed here.
 # [-        # WhiteCat (1.0) 『CK』 #-](http://download1953.mediafire.com/p0sa9tkz7fng/6250ar1z1jq0aes/-++++++++%23+WhiteCat+%281.0%29+%E3%80%8ECK%E3%80%8F+%23-.osk)
 ![](https://image.prntscr.com/image/cOgs56n9SnOUjW4aKoBBrQ.png)
 
-# [Varvalian]
+# Varvalian
 Snowz' Varvalian skin is currently private.
 
-# [Kaguya]
+# Kaguya
 Snowz' Kaguya skin is currently private.
