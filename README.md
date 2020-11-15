@@ -1,6 +1,10 @@
 # Snowz's osu Skins
 Snowz's osu! skins. Only his main skins are listed here.
 
+# [Default++](about:blank)
+
+# [Selyu 2.4 Snowz Edit](about:blank)
+
 # [mathi+ensalada](https://puu.sh/wvSc8.osk)
 ![](https://image.prntscr.com/image/cHwIiRw5QUyBg-NX5Hon1A.png)
 
